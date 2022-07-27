@@ -49,4 +49,4 @@ def my_menu():
             print("Неправильний вибір")
 
 
-my_menu()
+
